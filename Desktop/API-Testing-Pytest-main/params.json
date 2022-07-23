@@ -1,0 +1,28 @@
+{
+    "url": "https://emw-gh.test.tb-aws.com/order/",
+    "headers": {
+        "Authorization": "Bearer 3w97SW4wmIXoIbOf4fqI",
+        "Content-Type": "application/json"
+    },
+    "payment": {
+        "payments": [
+            {
+            "amount": 16.88,
+            "pay_type_id": "901",
+            "auth_code": "BR549"
+            }
+        ]
+    },
+    "commit_header": {
+        "Authorization": "Bearer 3w97SW4wmIXoIbOf4fqI"
+    },
+    "digital_headers": {
+        "Authorization": "Bearer IA.VUNmGAAAAAAAEgASAAAABwAIAAwAAAAAAAAAEgAAAAAAAAGMAAAAFAAAAAAADgAQAAQAAAAIAAwAAAAOAAAAYAAAABwAAAAEAAAAEAAAAJQSyHoicD8Nfbnpt7lqO7E8AAAA6s62Ale1azG22vPegri90I3BOYnEqfpVy8RN8CH7ZlEf9GJwlskhDzfmTIS09jqQ0LYHyEYLzG6bPRCRDAAAAHQw_jk9d04vvfdfcSQAAABiMGQ4NTgwMy0zOGEwLTQyYjMtODA2ZS03YTRjZjhlMTk2ZWU",
+        "Content-Type": "application/json"
+    },
+    "digital_url": "https://tb-omw-test.com/qa/orders/",
+    "parm_url": "https://parm-stage.yumconnect.dev/order/getOrder/",
+    "parm_headers": {
+        "Authorization": "Basic cGFybToyV0ZxNzdEZktzMjJQZWhk"
+    }
+}

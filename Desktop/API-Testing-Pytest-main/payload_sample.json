@@ -1,0 +1,32 @@
+{
+  "store_number": "002700",
+  "terminal": {
+      "id": "9"
+  },
+  "items": [
+      {
+          "product_id": "23194",
+          "quantity": 1,
+          "unit_price": 7.39
+      }
+  ],
+  "customer": {
+      "id": "123",
+      "first_name": "Test",
+      "last_name": "Niki",
+      "phone_cell": "1-855-585-5254",
+      "email": "helpme@grubhub.com",
+      "pickup_date_time": "2021-07-26T01:42:00.000Z"
+  },
+  "destination": {
+      "id": "8",
+      "name": "Delivery-GH-FC"
+  },
+  "reference_id": "9d8b76a1-edad-11eb-a71b-1fee39031be5",
+  "order_source_id": "1",
+  "charges": {
+      "subtotal": 799,
+      "taxes": 62,
+      "total": 861
+  }
+}
